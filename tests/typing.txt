@@ -24,11 +24,11 @@ colorlog==6.9.0
     # via nox
 cryptography==44.0.0
     # via pyjwt
-deprecated==1.2.15
+deprecated==1.2.17
     # via pygithub
 distlib==0.3.9
     # via virtualenv
-filelock==3.16.1
+filelock==3.17.0
     # via virtualenv
 gitdb==4.0.12
     # via gitpython
