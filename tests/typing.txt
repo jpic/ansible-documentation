@@ -44,7 +44,7 @@ markupsafe==3.0.2
     # via jinja2
 mdurl==0.1.2
     # via markdown-it-py
-mypy==1.14.1
+mypy==1.15.0
     # via -r tests/typing.in
 mypy-extensions==1.0.0
     # via mypy
