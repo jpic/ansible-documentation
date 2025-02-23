@@ -63,7 +63,7 @@ platformdirs==4.3.6
     # via virtualenv
 pycparser==2.22
     # via cffi
-pygithub==2.6.0
+pygithub==2.6.1
     # via -r tests/../hacking/pr_labeler/requirements.txt
 pygments==2.19.1
     # via rich
